@@ -17,5 +17,7 @@
     "url": "https://github.com/KWEBofficial/202R-backend-asgmt2/issues"
   },
   "homepage": "https://github.com/KWEBofficial/202R-backend-asgmt2#readme",
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
 }
